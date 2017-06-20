@@ -1,6 +1,6 @@
-#Inexika Custom Controls
+# Inexika Custom Controls
 
-##IXPickerOverlayView
+## IXPickerOverlayView
 
 IXPickerOverlayView — a UIView subclass that customizes the appearance of UIPickerView and UIDatePicker views.
 
